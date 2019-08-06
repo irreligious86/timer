@@ -1,0 +1,26 @@
+
+body {
+  background: #000;
+  color: cyan;
+}
+
+.site-main {
+  padding: 20px auto;
+}
+
+.timer {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.days, .hours, .minutes, .seconds, .symbols {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-style: italic;
+  font-size: 32px;
+  color: greenyellow;
+  
+}
+
+.timer-numbers {
+  background-color: #005;
+}
